@@ -57,9 +57,9 @@ public class Array {
 	
 	
 	/**
-	 * Metodo buscarLineal. COn este metodo pretendo realizar una busqueda del numero
-	 * que voy a pedir por parametro. Recorreremos el array y si lo encuentra dará verdadero sino 
-	 * devolverá false porque no se encuentra el elemento buscado en el array.
+	 * Metodo buscarLineal. Con este metodo pretendo realizar una busqueda del numero
+	 * que voy a pedir por parametro. Recorreremos el array y si lo encuentra dara verdadero sino 
+	 * devolvera false porque no se encuentra el elemento buscado en el array.
 	 * @param x es el numero que se va a pedir por teclado y es el parametro que vamos a buscar
 	 * @return retornara true si el numero buscado a sido encontrado y false si no lo encuentra. 
 	 */
@@ -72,4 +72,6 @@ public class Array {
 		}
 		return sw;
 	}
+	
+	
 }

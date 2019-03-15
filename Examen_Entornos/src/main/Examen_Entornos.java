@@ -6,8 +6,8 @@ import clases.Array;
 
 /**
  * He creado un programa con el que pretendo realizar una busqueda de un elemento
- * de un array que pediremos por teclado. Donde nos especificar√° si se encuentra en el array o no. 
- * Para ello realizar√° una ordenacion del array para despues realizar la busqueda. 
+ * de un array que pediremos por teclado. Donde nos especificara° si se encuentra en el array o no. 
+ * Para ello realizara° una ordenacion del array para despues realizar la busqueda. 
  * 
  * @author daniel.adrianduran
  *@version 1.0
